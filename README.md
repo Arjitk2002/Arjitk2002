@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Arjit:
 I am a Software Developer.<br>I have 1 Year of Experience in React & Nextjs.<br>I have been learning  Devops &  JavaScript.<br>My further Learning Curve Includes React-Native & Python for building Cross-platform apps. <br>Keping aside Academics I also Love to Watch Anime in my free time and has a keen interest in Japan and Japanese Culture.
 
 
